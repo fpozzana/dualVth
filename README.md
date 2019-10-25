@@ -1,5 +1,6 @@
 # dualVth
 ![](https://img.shields.io/badge/Development-Stopped-red)
+
  dualVth project carried out in the Synthesis and optimization of digital systems course at Politecnico di Torino.
 
  The project consist in a plug-in for Synopsis's PrimeTime : the script, written in TCL, implements a post-synthesis power minimization procedure. The command performs
