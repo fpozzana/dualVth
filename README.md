@@ -3,7 +3,7 @@
 
  dualVth project carried out in the Synthesis and optimization of digital systems course at Politecnico di Torino.
 
- The project consist in a plug-in for Synopsis's PrimeTime : the script, written in TCL, implements a post-synthesis power minimization procedure. The command performs
+ The project consist in a plug-in for Synopsis's PrimeTime : the script, written in TCL, implements a post-synthesis power minimization procedure. The script performs
  a leakage-constrained Dual-Vth cell assignment such that slack penalties are minimized. The savings obtained from swapping LVT cells with HVT cells is obtained as follows
 
  savings = (start_power - end_power) / start_power
