@@ -11,3 +11,12 @@
 Allowed input values may range from 0 (no leakage minimization) to 1 (maximum leakage savings). Every cell have to keep the same cell footprint during the optimization.
 
 Circuits such as https://s2.smu.edu/~dhoungninou/Benchmarks/ISCAS85/VERILOG/c1908.v and https://s2.smu.edu/~dhoungninou/Benchmarks/ISCAS85/VERILOG/c5315.v were used as benchmarks.
+
+## Tools
+
+For this porject the following tools were used
+- Prime time - Synopsys
+
+## Report
+
+For further informations refer to the report.pdf.
