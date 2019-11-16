@@ -14,7 +14,7 @@ Circuits such as https://s2.smu.edu/~dhoungninou/Benchmarks/ISCAS85/VERILOG/c190
 
 ## Tools
 
-For this porject the following tools were used
+For this project the following tools were used
 - Prime time - Synopsys
 
 ## Report
